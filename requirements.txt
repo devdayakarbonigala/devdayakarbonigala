@@ -1,0 +1,8 @@
+torch
+torchvision
+transformers
+langchain
+chromadb
+pypdf
+pdf2image
+sentence-transformers
